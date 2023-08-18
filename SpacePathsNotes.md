@@ -2,6 +2,8 @@
 
 ## Questions on SPACE paths
 
+Questions to be answered:
+
 |                                     | Stored as block? | Stored as name + size block? | Stored as path? | Stored as tree path? | Visualized as path? | Visualized as tree path? | returned as path by functions? | returned as tree path by functions? |
 | ----------------------------------- | ---------------- | ---------------------------- | --------------- | -------------------- | ------------------- | ------------------------ | ------------------------------ | ----------------------------------- |
 | /map facet                          |                  |                              |                 |                      |                     |                          |                                |                                     |
