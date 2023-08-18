@@ -1,8 +1,6 @@
 
 
-## Questions on SPACES paths
-
-Please answer with yes/or no
+## Questions on SPACE paths
 
 |                                     | Stored as block? | Stored as name + size block? | Stored as path? | Stored as tree path? | Visualized as path? | Visualized as tree path? | returned as path by functions? | returned as tree path by functions? |
 | ----------------------------------- | ---------------- | ---------------------------- | --------------- | -------------------- | ------------------- | ------------------------ | ------------------------------ | ----------------------------------- |
